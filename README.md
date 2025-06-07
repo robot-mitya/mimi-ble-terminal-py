@@ -1,7 +1,9 @@
 # mimi-ble-terminal  
 A simple Linux terminal for sending commands to and receiving messages from a Mimi-robot over BLE (UART-over-BLE protocol).
 
-Mimi-robot (short for Micro-Mitya) is a robot based on the **micro:bit** controller and the **tiny:bit** mobile platform.
+![Tiny:bit mobile platform](images/tinybit.jpg)
+
+Mimi-robot (short for Micro-Mitya) is a robot based on the [**micro:bit**](https://microbit.org/) controller and the [**Tiny:bit**](https://www.yahboom.net/study/Tiny:bit) mobile platform.
 The robot firmware is available in the repository: https://github.com/robot-mitya/microbit-v2-tinybit.
 The firmware implements control over the robot's peripherals and supports communication using simple text commands over USB Serial or BLE UART.
 Command documentation is available [here](https://github.com/robot-mitya/microbit-v2-tinybit/tree/master/source#readme).
