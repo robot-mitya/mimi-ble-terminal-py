@@ -1,5 +1,7 @@
-# mimi-ble-terminal  
+# mimi-ble-terminal-py  
 A simple Linux terminal for sending commands to and receiving messages from a Mimi-robot over BLE (UART-over-BLE protocol).
+
+**[DEPRECATED]** Use [C++ implementation](https://github.com/robot-mitya/mimi-ble-terminal) instead.
 
 ![Tiny:bit mobile platform](images/tinybit.jpg)
 
@@ -15,8 +17,8 @@ Command documentation is available [here](https://github.com/robot-mitya/microbi
 Clone the project:
 
 ```commandline
-git clone git@github.com:robot-mitya/mimi-ble-terminal.git
-cd mimi-ble-terminal
+git clone git@github.com:robot-mitya/mimi-ble-terminal-py.git
+cd mimi-ble-terminal-py
 ```
 
 Create and activate a virtual environment:
